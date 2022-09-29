@@ -1,8 +1,6 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-e
-5src/main/java/pl/akademiaqa/secret/TrelloSecrets.java,b\b\bbf0c15f5a97c50549f699afe8e06a84b426b19c
 p
 @src/test/java/pl/akademiaqa/requests/card/UpdateCardRequest.java,0\b\0bf2f940fedcd4e7aa09163ed343473f42f2c0f8
 p
